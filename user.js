@@ -1,5 +1,5 @@
 const userInfo = {
-  roomId: 25820273,
+  roomId: 32218276,
   mid: 318013512,
-  verifyExcludeId: [1292417066]
+  verifyExcludeId: [3546638729612039]
 };
